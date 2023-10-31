@@ -7,4 +7,4 @@ Some of my skills:
 * C++, Java, Python, C.
 * SQL.
   
-Check out my [linkedin](https://www.linkedin.com/in/mario-pi%C3%B1a-munera-465116225/) profile!
+Check out my [LinkedIn](https://www.linkedin.com/in/mario-pi%C3%B1a-munera-465116225/) profile!
